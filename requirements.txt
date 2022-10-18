@@ -1,0 +1,5 @@
+clip-by-openai
+torch
+einops
+opencv-python
+scikit-learn
